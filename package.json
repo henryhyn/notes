@@ -19,6 +19,8 @@
     "@vuepress/plugin-medium-zoom": "^1.8.2",
     "dayjs": "^1.10.6",
     "husky": "^7.0.1",
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0",
     "remark-cli": "^9.0.0",
     "remark-lint-spaces-around-number": "^0.1.2",
     "remark-lint-spaces-around-word": "^0.1.2",
