@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    "preset-lint-consistent",
+    "preset-lint-markdown-style-guide",
+    "preset-lint-recommended",
+
+    ["lint-list-item-indent", "space"],
+    ["lint-ordered-list-marker-value", "ordered"],
+    ["lint-maximum-line-length", false],
+    ["lint-spaces-around-number", true],
+    ["lint-spaces-around-word", true]
+  ]
+}
